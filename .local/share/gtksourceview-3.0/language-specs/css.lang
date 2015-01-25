@@ -160,23 +160,48 @@
 
     <context id="property-names" style-ref="keyword">
       <suffix>(?=\s*:)</suffix>
+      <keyword>align-content</keyword>
+      <keyword>align-items</keyword>
+      <keyword>align-self</keyword>
+      <keyword>animation</keyword>
+      <keyword>animation-delay</keyword>
+      <keyword>animation-direction</keyword>
+      <keyword>animation-duration</keyword>
+      <keyword>animation-fill-mode</keyword>
+      <keyword>animation-iteration-count</keyword>
+      <keyword>animation-name</keyword>
+      <keyword>animation-play-state</keyword>
+      <keyword>animation-timing-function</keyword>
       <keyword>azimuth</keyword>
+      <keyword>backface-visibility</keyword>
       <keyword>background-attachment</keyword>
       <keyword>background-color</keyword>
+      <keyword>background-clip</keyword>
       <keyword>background-image</keyword>
+      <keyword>background-origin</keyword>
       <keyword>background-position</keyword>
       <keyword>background-repeat</keyword>
+      <keyword>background-size</keyword>
       <keyword>background</keyword>
+      <keyword>border-bottom-left-radius</keyword>
       <keyword>border-bottom-color</keyword>
+      <keyword>border-bottom-right-radius</keyword>
       <keyword>border-bottom-style</keyword>
       <keyword>border-bottom-width</keyword>
       <keyword>border-bottom</keyword>
       <keyword>border-collapse</keyword>
       <keyword>border-color</keyword>
+      <keyword>border-image</keyword>
+      <keyword>border-image-outset</keyword>
+      <keyword>border-image-repeat</keyword>
+      <keyword>border-image-slice</keyword>
+      <keyword>border-image-source</keyword>
+      <keyword>border-image-width</keyword>
       <keyword>border-left-color</keyword>
       <keyword>border-left-style</keyword>
       <keyword>border-left-width</keyword>
       <keyword>border-left</keyword>
+      <keyword>border-radius</keyword>
       <keyword>border-right-color</keyword>
       <keyword>border-right-style</keyword>
       <keyword>border-right-width</keyword>
@@ -184,16 +209,30 @@
       <keyword>border-spacing</keyword>
       <keyword>border-style</keyword>
       <keyword>border-top-color</keyword>
+      <keyword>border-top-left-radius</keyword>
+      <keyword>border-top-right-radius</keyword>
       <keyword>border-top-style</keyword>
       <keyword>border-top-width</keyword>
       <keyword>border-top</keyword>
       <keyword>border-width</keyword>
       <keyword>border</keyword>
       <keyword>bottom</keyword>
+      <keyword>box-shadow</keyword>
+      <keyword>box-sizing</keyword>
       <keyword>caption-side</keyword>
       <keyword>clear</keyword>
       <keyword>clip</keyword>
       <keyword>color</keyword>
+      <keyword>column-count</keyword>
+      <keyword>column-fill</keyword>
+      <keyword>column-gap</keyword>
+      <keyword>column-rule</keyword>
+      <keyword>column-rule-color</keyword>
+      <keyword>column-rule-style</keyword>
+      <keyword>column-rule-width</keyword>
+      <keyword>column-span</keyword>
+      <keyword>column-width</keyword>
+      <keyword>columns</keyword>
       <keyword>content</keyword>
       <keyword>counter-increment</keyword>
       <keyword>counter-reset</keyword>
@@ -205,6 +244,13 @@
       <keyword>display</keyword>
       <keyword>elevation</keyword>
       <keyword>empty-cells</keyword>
+      <keyword>flex-basis</keyword>
+      <keyword>flex-direction</keyword>
+      <keyword>flex-flow</keyword>
+      <keyword>flex-grow</keyword>
+      <keyword>flex-shrink</keyword>
+      <keyword>flex-wrap</keyword>
+      <keyword>flex</keyword>
       <keyword>float</keyword>
       <keyword>font-family</keyword>
       <keyword>font-size-adjust</keyword>
